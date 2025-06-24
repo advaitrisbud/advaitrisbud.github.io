@@ -1,7 +1,9 @@
 ---
 layout: single
 author_profile: true
-title: "Welcome"
+title: "About Me"
+permalink: /about/
+nav_order: 2
 ---
 
 # Hello! I'm Advait Risbud
