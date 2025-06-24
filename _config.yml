@@ -66,6 +66,9 @@ author:
     - label: "Email"
       icon: "fas fa-envelope"
       url: "mailto:advaitrisbud@gmail.com"
+    - label: "Work Email"
+      icon: "fas fa-envelope"
+      url: "mailto:advaitrisbud@uchicago.edu"
     - label: "GitHub"
       icon: "fab fa-github"
       url: "https://github.com/advaitrisbud"
@@ -78,13 +81,13 @@ footer:
   links:
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
-      url: "https://twitter.com/"
+      url: "https://twitter.com/AdvaitRisbud"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      url: "https://github.com/"
+      url: "https://github.com/advaitrisbud"
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
-      url: "https://instagram.com/"
+      url: "https://instagram.com/rizzbud"
 
 defaults:
   # _posts

@@ -1,12 +1,12 @@
----
+<!-- ---
 layout: single
 author_profile: true
 title: "MITACS Summer Internship"
 category: [personal, research]
----
+--- -->
 
-![Me at a pub in Vancouver](/assets/images/summer_blog/advaitPhoto.jpg)
-
+This article was originally published as a part of Insight's (IIT Bombay's student media body) summer blog series which details the summer internship experiences of undergraduates at IIT Bombay.
+![Me at a pub in Vancouver](/assets/images/summer_blog/advaitPhoto.jpg){: style="float: right;  margin-left: 1em; width: 200px; height: 320px; border-radius: 10%;"}
 
 (Yesss, finally, I get to talk about myself) Hello everyone! My name is Advait Risbud (he/him), and I am a fourth-year undergraduate student in the MEMS department. I did my summer internship in the Solarspec laboratory at the University of British Columbia, Okanagan. This internship was via the popular Mitacs program organised and financed by the Canadian government. I intend to address the following points through this blog: how I secured the internship; why this project; my experience in Canada; key takeaways.
 
@@ -18,13 +18,13 @@ The project was centred around photocatalysis using organic semiconductors and o
 
 Mitacs gives their stipend in installments, and the amount covers the flight, stay, and aiyaashi in Canada. I stayed in a campus residence in UBC. The city I was living in was not very pedestrian friendly (poor public transport, you’ll need a car) and all the grocery stores and eateries were far from my house hence living on campus wasn’t the best experience. The major learning came from living alone (though I had my dear friend Aryan Gupta along for the ride), cooking all meals for yourself, and managing your own finances. While I can cook, and Aryan claims to be a chef, we did not have any of the basic utilities that we take for granted at home. This includes pots and pans, spoons, plates, forks, bowls, kitchen towels etc. Buying all these items left a considerable dent in our pockets, and what’s worse is that we did not have the baggage allowance to bring them back. This makeshift living situation was possibly the only thorn in the side of my internship experience.
 
-Food
+![Food](/assets/images/summer_blog/advaitFood.png){: style="float: right;  margin-left: 1em; width: 320px; height: 200px; border-radius: 0%;"}
 Nevertheless, we cooked a lot of stuff and had a lot of fun in the meantime. P.S.: Deep frying chicken in a not-so-deep pan is not a good idea.
 
-Group photo
+![Conference](/assets/images/summer_blog/advaitphoto3.png){: style="float: right;  margin-left: 1em; width: 320px; height: 200px; border-radius: 0%;"}
 The lab group made my experience in Canada a delight. We went on many group outings, hikes, and even attended a 5-day conference in Vancouver (where we met a Nobel prize winner!). I hope I have made life-long friends. The conference (CSC) was held at the Vancouver convention center, which is a fantastic location, overlooking Vancouver Island and the Pacific Ocean. The conference was possibly the biggest highlight of my trip. Also, as a part of the Mitacs program, you could interact with people from different parts of the world and learn from their experiences. There were students from Mexico, France, Colombia, England, Ukraine etc.
 
-Some pics
+![Aryan and Siddhant](/assets/images/summer_blog/advaitphoto2.jpg){: style="float: right;  margin-left: 1em; width: 320px; height: 200px; border-radius: 0%;"}
 Now let’s get to the key takeaways. The project was exactly as advertised and gave me an opportunity to learn a plethora of skills in experimental materials science. Having never worked in a chemistry lab before, there was a steep learning curve. I learnt that it is okay to struggle, but not okay to stop working hard. The biggest takeaway, however, is that I now know I want to do a PhD, mostly in the field of spectroscopy.
 
 It is pertinent to ask yourself why you want to do an internship. It is completely fine if at this point your answer is “baaki log kar rahe hai”. Keep asking yourself this question, and maybe by the end of your internship, you will know why you did it.
@@ -45,4 +45,6 @@ I am not saying this is by design or that the PT cell isn’t rooting for you. W
 
 There are millions of people doing very interesting things across the globe, and they need your help. Don’t restrict yourself to the three gates of IIT Bombay. Talk to people, learn from their journey, build a network, and eventually, a door will open for you. Keep in mind, you must never stop trying, never stop upskilling, and never stop learning. You are too talented to be giving up.
 
-Some pics
+![Mountain](/assets/images/summer_blog/advaitphoto4.jpg)
+
+
