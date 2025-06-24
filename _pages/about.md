@@ -21,3 +21,5 @@ Feel free to reach out to discuss any of the above :)
 ---
 
 Feel free to explore the site or [contact me](mailto:you@example.com) if you'd like to connect!
+
+---
