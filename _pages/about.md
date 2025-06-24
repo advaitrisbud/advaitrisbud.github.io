@@ -7,6 +7,7 @@ nav_order: 2
 ---
 
 # Hello! I'm Advait Risbud
+<div style="font-size: 0.95rem; line-height: 1.5;">
 
 Dear Cyber Visitor, 
 
@@ -25,3 +26,5 @@ Feel free to reach out to discuss any of the above :)
 Feel free to explore the site or [contact me](mailto:you@example.com) if you'd like to connect!
 
 ---
+
+</div>
