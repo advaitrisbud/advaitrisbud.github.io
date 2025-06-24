@@ -1,13 +1,12 @@
 ---
 layout: single
 author_profile: true
-title: "About Me"
-permalink: /about/
-nav_order: 2
+title: "About"
+
 ---
 
 # Hello! I'm Advait Risbud
-<div style="font-size: 0.95rem; line-height: 1.5;">
+
 
 Dear Cyber Visitor, 
 
@@ -27,4 +26,3 @@ Feel free to explore the site or [contact me](mailto:you@example.com) if you'd l
 
 ---
 
-</div>

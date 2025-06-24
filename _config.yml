@@ -13,7 +13,7 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: MM
+title: Advait Risbud
 email:
 description: >- # this means to ignore newlines until "baseurl:"
   This is my personal and research website where you can find information about my research and some things that I have written.
@@ -30,6 +30,9 @@ permalink: /:categories/:title/
 paginate: 5 # amount of posts to show
 paginate_path: /page:num/
 timezone: # https://en.wikipedia.org/wiki/List_of_tz_database_time_zones
+
+custom_css:
+  - /assets/css/custom.css
 
 include:
   - _pages
@@ -57,8 +60,8 @@ plugins:
 
 author:
   name   : "Advait Risbud"
-  avatar : "/assets/images/avatar.png"  # optional – place your image there
-  bio    : "Molecular spectroscopy, education, and coffee-fueled quantum mechanics."
+  avatar : "/assets/images/bio-photo.jpg"  # optional – place your image there
+  bio    : "Incoming PhD Student at the University of Chicago"
   links:
     - label: "Email"
       icon: "fas fa-envelope"

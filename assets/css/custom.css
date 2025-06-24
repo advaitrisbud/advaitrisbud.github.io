@@ -1,0 +1,13 @@
+.page__content p {
+    text-align: justify;
+  }
+
+.page {
+    max-width: 800px;  /* Default is about 1040px */
+    margin: 0 auto;
+    padding: 0 2rem;   /* Optional: extra inner spacing */
+  }
+
+.page-about .page__content {
+    font-size: 0.85rem;
+  }
