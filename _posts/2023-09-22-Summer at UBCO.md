@@ -35,10 +35,11 @@ I consider my internship a success because it helped me make some important deci
 
 My advice to anyone considering a research internship is as follows:
 
-CPI>8 matters in most cases, but there are people who’ve gotten fantastic interns with a CPI<8. Talk to them. Also, a CPI>8 does not guarantee an internship (entrench this in your mind lest you get a rude awakening).
-Figure out a general area that interests you, so that you can answer the basic question, “Why did you apply for this internship/project?”. Don’t worry if you don’t have a very clear-cut answer right now; it’s completely fine. For example, I am still unsure of what I want to do a PhD in. But slowly, the probability space gets refined to in my case, physical chemistry.
-It is not that hard to get an LoR; just ask. Unless you made a mess in their lab or cheated in their course, you should get an LoR. Potential reasons for requesting an LoR: did well in a course, did a project, were a TA under the professor etc.
-If you do get a chance to go abroad, try new things, and meet new people. Don’t huddle up with people from other IITs, and start discussing placement scenes like a bunch of normies. Considering that you might never get to go to that place again in your life, make the most of it.
+1. CPI>8 matters in most cases, but there are people who’ve gotten fantastic interns with a CPI<8. Talk to them. Also, a CPI>8 does not guarantee an internship (entrench this in your mind lest you get a rude awakening).
+2. Figure out a general area that interests you, so that you can answer the basic question, “Why did you apply for this internship/project?”. Don’t worry if you don’t have a very clear-cut answer right now; it’s completely fine. For example, I am still unsure of what I want to do a PhD in. But slowly, the probability space gets refined to in my case, physical chemistry.
+3. It is not that hard to get an LoR; just ask. Unless you made a mess in their lab or cheated in their course, you should get an LoR. Potential reasons for requesting an LoR: did well in a course, did a project, were a TA under the professor etc.
+4. If you do get a chance to go abroad, try new things, and meet new people. Don’t huddle up with people from other IITs, and start discussing placement scenes like a bunch of normies. Considering that you might never get to go to that place again in your life, make the most of it.
+
 Now some opinions. I don’t weigh the institute internship process very heavily, I feel it is rigged, elitist, and far from equitable. Why should your resume be in LaTeX? Are there only four consulting firms in the world? Is communication skill equivalent to English speaking? These are all questions you should have asked yourself if you’ve tried to analyze our internship process.
 
 I am not saying this is by design or that the PT cell isn’t rooting for you. We have a fantastic placement team that works very hard to get us some of the best opportunities from around the world. My point is that the professional world is much wider than the view we see from the microcosm of IITB.
