@@ -61,7 +61,7 @@ plugins:
 author:
   name   : "Advait Risbud"
   avatar : "/assets/images/bio-photo.jpg"  # optional – place your image there
-  bio    : "Incoming PhD Student at the University of Chicago"
+  bio    : "PhD Student at the University of Chicago"
   links:
     - label: "Email"
       icon: "fas fa-envelope"
